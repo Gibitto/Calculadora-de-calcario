@@ -1,0 +1,24 @@
+Dados que você vai precisar usar pra rodar o programa e que são provenientes de uma análise de solo e do quadro 8.1 da 5ª aproximação.
+
+Pra cultura do café:
+
+Mt = 25
+X = 3.5
+Ve = 60
+
+Análise de Solo:
+
+Ca^2+ = 0.28
+Mg^2+ = 0.14
+Al^3+ = 1.5
+SB = 0.53
+t = 2.03
+T = 9.44
+P-rem = 10.1
+%Arg = 37
+
+Dados do calcário:
+
+PRNT = 90
+PF = 20
+SC = 100
